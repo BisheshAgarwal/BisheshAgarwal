@@ -23,7 +23,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,typescript,html,css,js,mongodb,express,nodejs,vscode,github,git,webpack,babel,rollup,azure"> </a> </p>
+<p align="left"> <a href="https://github.com/BisheshAgarwal"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,typescript,html,css,js,mongodb,express,nodejs,vscode,github,git,webpack,babel,rollup,azure"> </a> </p>
 
 ## My Stats:
 <p align="center">
