@@ -15,26 +15,27 @@
   </a>
 </p>
 
-## Who Am I
+## 🥷 Who Am I
 I'm a Web Developer who loves to bring ideas to life in the browser. I grew up in the 90's early 2000s and fell in love with the internet. Therefore I am excited about developing websites and web applications that are fast, responsive, and accessible to everyone. Also, I kind of want to bring back the 90s web design aesthetic. I think it was cool. 😎
-
-## What I'm Doing
-
-- 🔭 Working full-time as a Senior Software Engineer
-- 🌱 Learning Node.js & more
 - 💼 Got a freelance gig? Hit me up via <a href="mailto: bisheshagarwal1999@gmail.com">email.</a>
 - 💬 Curious? Just ask!
 
-## Languages and Tools
+## 🛌 What I'm Doing
+
+- 🔭 Working full-time as a Senior Software Engineer
+- 📖 Exploring new things every day.
+- 🏍️ Riding my motorcycle in my free time
+
+## ⚙️ Languages and Tools
 
 <p align="left"> <a href="https://github.com/BisheshAgarwal"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,typescript,html,css,sass,tailwind,js,mongodb,express,nodejs,vscode,github,git,webpack,babel,rollup,azure"> </a> </p>
 
-## My Stats:
+## 📈 My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=BisheshAgarwal&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-## Activity On GitHub
+## 🔥 Activity On GitHub
 
 <p align="center">
   <a href="https://github.com/BisheshAgarwal">      
