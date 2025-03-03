@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">Oi, World! I'm <a href="https://github.com/BisheshAgarwal">BisheshAgarwal👋</a></h3>
